@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity {
         TextView statusGolongan = (TextView) findViewById(R.id.outputGolongan);
         total.setText(String.valueOf(totalGaji));
         statusMenikah.setText("Status Anda : " + checkStatus);
-        statusGolongan.setText(String.valueOf(displayGolongan));
+        statusGolongan.setText("Golongan Anda : " +String.valueOf(displayGolongan));
 
     }
 }
