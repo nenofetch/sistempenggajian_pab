@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sistem Penggajian</string>
+    <string name="nama_lengkap">Masukan Nama Anda :</string>
+    <string name="isikan_nama_lengkap_anda">Isikan nama lengkap anda</string>
+    <string name="sudah_menikah">Sudah Menikah?</string>
+    <string name="menikah">Menikah</string>
+
+    <string name="golongan">Golongan</string>
+</resources>
